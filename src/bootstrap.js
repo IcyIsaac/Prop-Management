@@ -23,7 +23,7 @@ function main() {
         <Switch>
             <Layout>
                 <Route path='/' component={Signin}/>
-                <Route path='/singin' component={Signin}/>
+                <Route path='/signin' component={Signin}/>
                 <Route path='/signup' component={Signup}/>
             </Layout>
         </Switch>
